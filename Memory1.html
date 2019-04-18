@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Memory</title>
+    <link href="styles/style.css" rel="stylesheet" />
+    <link href="styles/Memory.css" rel="stylesheet" />
+    <script src="scripts/jQuery.js"></script>
+    <script src="scripts/memory.js"></script>
+</head>
+<body>
+    <form id="loginForm" class="login">
+        <label>Username</label>
+        <input type="text" id="tbUserName" />
+        <label>Password</label>
+        <input type="password" id="tbPassword" />
+        <div>
+            <input type="checkbox" id="cbRemember" />Remember Me
+            <input type="button" id="btnForget" value="Forget Me" />
+            <input type="button" id="btnLogin" value="Login" />
+        </div>
+    </form>
+    <form>
+        <div>
+            <label>Name</label>
+            <input type="text" id="txtName" class="text" />
+        </div>
+        <div>
+            <label>Phone</label>
+            <input type="text" id="txtPhone" class="text" />
+        </div>
+        <div>
+            <label>Age</label>
+            <input type="text" id="txtAge" class="text"/>
+        </div>
+        <div>
+            <div><input type="radio" name="group" id="gbGroupOne" value="1"/>Group 1</div>
+            <div><input type="radio" name="group" id="gbGroupTWo" value="2"/>Group 2</div>
+            <div><input type="radio" name="group" id="gbGroupThree" value="3"/>Group 3</div>
+        </div>
+        <input type="button" id="btnAddPerson" value="Add Person" />
+        <input type="button" id="btnClearStorage" value="Clear Storage" />
+    </form>
+    <a href="Memory2.html">View Storage</a>
+    <ul id="ulDisplayPersons"></ul>
+    <a href="index.html">Back to Assignment List</a>
+</body>
+</html>

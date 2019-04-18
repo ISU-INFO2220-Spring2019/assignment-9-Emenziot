@@ -1,0 +1,29 @@
+﻿/* --------------------------------------------------------------------------
+    Cordell Anderson
+    Secondary Style sheet. Created to confirm ability to import one style
+    sheet into another.
+    Created January 27, 2019 for INFO 2220 at ISU
+-----------------------------------------------------------------------------*/
+
+td:hover{
+    background-color:#000;
+    color:#FFF;
+    cursor:cell;
+}
+
+.success::before,.warning::before,.error::before{
+    content:"Message: ";
+}
+
+span.special{
+    font-weight:normal;
+    text-transform:uppercase;
+    text-decoration:overline;
+}
+
+span.special:before{
+    content:open-quote;
+}
+span.special:after{
+    content:close-quote;
+}

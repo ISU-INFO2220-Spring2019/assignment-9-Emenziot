@@ -1,0 +1,68 @@
+﻿/* ------------------------------------------------------------------
+    Cordell Anderson
+    General Style sheet for the entirety of the web pages.
+    Created during Assignment 2 of INFO 2220 at ISU January 27, 2019
+------------------------------------------------------------------- */
+
+@import url('styleSecondary.css');
+
+
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+}
+p{
+    padding: 2ex;
+}
+#cssTest,span{
+    font-weight:bold;
+}
+#cssTest,table span{
+    text-decoration:underline;
+}
+a{
+    color:#F80;
+}
+h1{
+    font-size:2em; color:#F80;
+}
+h2{
+    font-size:1.8em; color:#888;
+}
+h3{
+    font-size:1.6em;
+}
+th{
+    background-color:#F80;
+    color:#FFF;
+}
+table tr{
+    font-size:0.9em; background-color:#EEE;
+}
+tr.other{
+    background-color:#DDD;
+}
+.success,.warning,.error{
+    border:solid;
+    border-width:1px;
+    border-color:#AAA;
+    font-weight:bold;
+    padding:0.3em;
+    margin:0.3em;
+}
+.success{
+    color:#080;
+    background-color:#F0FFF0;
+    border-color:#080;
+}
+.warning{
+    color:#880;
+    background-color:#FFFFF0;
+    border-color:#880;
+}
+.error{
+    color:#800;
+    background-color:#FFF0F0;
+    border-color:#800;
+}
+

@@ -1,0 +1,23 @@
+﻿body {
+}
+
+form.login{
+    border: solid;
+    border-width: 1px;
+    border-color: #AAA;
+    font-weight: bold;
+    padding: 0.3em;
+    margin: 0.3em;
+    background-color:#f70;
+    width:200px;
+}
+
+form label.login{
+    color: black;
+}
+
+.text {
+    position:relative;
+    left: 50px;
+    background-color:red;
+}

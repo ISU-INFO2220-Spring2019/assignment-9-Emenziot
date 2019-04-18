@@ -1,0 +1,140 @@
+{
+  "Books": [
+    {
+      "Title": "HTML and CSS: Design and Build Websites",
+      "ISBN": "978-1118008188",
+      "Author": {
+        "First": "Jon",
+        "Middle": "",
+        "Last": "Duckett"
+      },
+      "Tags": [
+        "CSS",
+        "Web",
+        "Design",
+        "Programming"
+      ]
+    },
+    {
+      "Title": "Beginning Programming All-In-One Desk Reference For Dummies",
+      "ISBN": "978-0470108543",
+      "Author": {
+        "First": "Wallace",
+        "Middle": "",
+        "Last": "Wang"
+      },
+      "Tags": [
+        "Introductiory",
+        "Beginning",
+        "Programming",
+        "Languages",
+        "Software"
+      ]
+    },
+    {
+      "Title": "Beginning C++ Through Game Programming",
+      "ISBN": "978-1435457423",
+      "Author": {
+        "First": "Michael",
+        "Middle": "",
+        "Last": "Dawson"
+      },
+      "Tags": [
+        "Tutorials",
+        "C++",
+        "Game",
+        "Programming"
+      ]
+    },
+    {
+      "Title": "Code: The Hidden Language of Computer Hardware and Software",
+      "ISBN": "735611319",
+      "Author": {
+        "First": "Charles",
+        "Middle": "",
+        "Last": "Petzold"
+      },
+      "Tags": [
+        "Machine Theory",
+        "Business",
+        "Software",
+        "Development"
+      ]
+    },
+    {
+      "Title": "The Principles of Object-Oriented JavaScript",
+      "ISBN": "978-1593275402",
+      "Author": {
+        "First": "Nicholas",
+        "Middle": "C.",
+        "Last": "Zakas"
+      },
+      "Tags": [
+        "Object-Oriented",
+        "Software",
+        "Design",
+        "Javascript"
+      ]
+    },
+    {
+      "Title": "How Linux Works: What Every Superuser Should Know",
+      "ISBN": "978-1593275679",
+      "Author": {
+        "First": "Brian",
+        "Middle": "",
+        "Last": "Ward"
+      },
+      "Tags": [
+        "Linux",
+        "UNIX",
+        "Networking",
+        "System Administration",
+        "Operating Systems"
+      ]
+    },
+    {
+      "Title": "The Psychology of Computer Programming: Silver Anniversary Edition",
+      "ISBN": "978-0932633422",
+      "Author": {
+        "First": "Gerald",
+        "Middle": "M.",
+        "Last": "Weinberg"
+      },
+      "Tags": [
+        "Programming",
+        "Languages",
+        "Mathematics"
+      ]
+    },
+    {
+      "Title": "The Mythical Man-Month: Essays on Software Engineering",
+      "ISBN": "978-0201835953",
+      "Author": {
+        "First": "Frederick",
+        "Middle": "P.",
+        "Last": "Brooks"
+      },
+      "Tags": [
+        "Microprocessors",
+        "Design",
+        "Software",
+        "Engineeting",
+        "Development"
+      ]
+    },
+    {
+      "Title": "Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers",
+      "ISBN": "978-1597499576",
+      "Author": {
+        "First": "TJ",
+        "Middle": "",
+        "Last": "O'Connor"
+      },
+      "Tags": [
+        "Hacking",
+        "Networking",
+        "Security"
+      ]
+    }
+  ]
+}
